@@ -1,0 +1,5 @@
+{
+  "name": "PATOPAY - Gateway de Pagamento PIX",
+  "description": "Uma fintech moderna para recebimento de pagamentos via PIX com liquidação automática, painel administrativo e inteligência artificial para suporte.",
+  "requestFramePermissions": []
+}
